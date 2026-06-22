@@ -21,6 +21,7 @@ The Grok Word plugin is a distribution signal: document agents may win by living
 8/10 — high because the source maps to a repeatable, evidence-heavy agent/product workflow with clear visual and GitHub artifact value.
 
 ## Generated artifacts
+- Trial evidence index: [[Artifacts/Prototypes/Office-Native Document Agent Kit/Document Agent Trial Evidence Index.md|Document Agent Trial Evidence Index]]
 - Prototype: [[Artifacts/Prototypes/Office-Native Document Agent Kit/Document Agent Task Eval Card.md|Document Agent Task Eval Card]]
 - Prototype README: [[Artifacts/Prototypes/Office-Native Document Agent Kit/README.md]]
 - Infographic: [[Artifacts/Infographics/Office-Native Document Agent Kit/office-native-agent-workflow.md|Office-Native Agent Workflow]]
@@ -40,11 +41,13 @@ No skill draft promoted yet; this is currently a product/evaluation kit rather t
 
 ## Improvement backlog
 - [x] Create package, prototype, infographic, improvement loop, and GitHub mirror.
+- [x] Add a trial evidence index so the first real run routes proof to safe wording and patch targets.
 - [ ] Run one real or sanitized trial and attach evidence.
-- [ ] Add a post-trial debrief template after the first trial.
+- [ ] Add a post-trial debrief template after the first evidence-backed trial.
 - [ ] Decide promote / pilot-only / iterate / hold before changing public claims.
 
 ## Change log
+- 2026-06-22: Added [[Artifacts/Prototypes/Office-Native Document Agent Kit/Document Agent Trial Evidence Index.md|Document Agent Trial Evidence Index]] to route future trial proof into safe README/prototype/skill patch decisions without claiming validation early.
 - 2026-06-22: Created artifact package, prototype trial packet, infographic, improvement loop, and GitHub repo mirror. Artifacts are template-ready; no validation proof claimed.
 
 ## Original source
