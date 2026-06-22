@@ -3,6 +3,8 @@
 Source: [[Grok Word Plugin as Office-Native AI Agent]]
 
 ## Current artifact
+Use [[Document Agent Post-Trial Debrief Template]] after the eval card and evidence index are filled to decide whether claims should be promoted, narrowed, iterated, or held.
+
 Use [[Document Agent Trial Evidence Index]] after the trial packet to route proof into safe public wording and patch targets.
 
 Use [[Document Agent Task Eval Card]] as the next-run packet. It is designed to gather proof, not claim validation.
@@ -17,7 +19,11 @@ A three-task evaluation card for comparing office-native AI against chat-copy-pa
 4. Complete the decision section before patching README, repo, or skill claims.
 
 ## Latest improvement
+- 2026-06-22: Added [[Document Agent Post-Trial Debrief Template]] to convert future office-native task evidence into explicit README/prototype/infographic/skill patch decisions. Status: template-ready, evidence-pending.
 - 2026-06-22: Added [[Document Agent Trial Evidence Index]] so future proof is mapped to README/prototype/skill patch decisions before claims change. Status: template-ready, evidence-pending.
 
 ## Trial evidence index
 - [[Document Agent Trial Evidence Index]] — after the next document task, map each screenshot, exported doc, baseline comparison, and friction note to safe package/prototype wording before patching public claims. Template-ready; evidence pending.
+
+## Post-trial debrief
+- [[Document Agent Post-Trial Debrief Template]] — after the eval card and evidence index contain real links/files, decide promote / pilot-only / iterate / hold and list exact patch targets. Template-ready; evidence pending.
