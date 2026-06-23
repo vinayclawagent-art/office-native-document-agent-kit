@@ -3,6 +3,8 @@
 Source: [[Grok Word Plugin as Office-Native AI Agent]]
 
 ## Current artifact
+Use [[Document Agent Trial Operator Handoff Checklist]] to sequence the next office-native trial operator through the eval card, evidence index, and debrief without skipping evidence capture.
+
 Use [[Document Agent Post-Trial Debrief Template]] after the eval card and evidence index are filled to decide whether claims should be promoted, narrowed, iterated, or held.
 
 Use [[Document Agent Trial Evidence Index]] after the trial packet to route proof into safe public wording and patch targets.
@@ -19,6 +21,7 @@ A three-task evaluation card for comparing office-native AI against chat-copy-pa
 4. Complete the decision section before patching README, repo, or skill claims.
 
 ## Latest improvement
+- 2026-06-23: Added [[Document Agent Trial Operator Handoff Checklist]] to make the next office-native document task operator-ready while keeping claims evidence-pending.
 - 2026-06-22: Added [[Document Agent Post-Trial Debrief Template]] to convert future office-native task evidence into explicit README/prototype/infographic/skill patch decisions. Status: template-ready, evidence-pending.
 - 2026-06-22: Added [[Document Agent Trial Evidence Index]] so future proof is mapped to README/prototype/skill patch decisions before claims change. Status: template-ready, evidence-pending.
 
@@ -27,3 +30,6 @@ A three-task evaluation card for comparing office-native AI against chat-copy-pa
 
 ## Post-trial debrief
 - [[Document Agent Post-Trial Debrief Template]] — after the eval card and evidence index contain real links/files, decide promote / pilot-only / iterate / hold and list exact patch targets. Template-ready; evidence pending.
+
+## Operator handoff
+- [[Document Agent Trial Operator Handoff Checklist]] — before the document task, hand this to the operator so eval-card fields, evidence-index rows, and debrief decisions are completed in order. Operator-ready; evidence pending.
